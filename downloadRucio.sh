@@ -1,11 +1,22 @@
 #!/bin/bash
 
 # Define the base directory
-base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES"
+base_dir="/eos/atlas/atlascerngroupdisk/phys-hdbs/diHiggs/ttHH/NTUPLES"
+#base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES"
 
 # Define the user and file information
 user="lfaldaul"
-campaign="003"
+campaign="005"
+
+# === data ===
+
+rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp15_v01_p5631_TREE/"
+
+rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp16_v01_p5631_TREE/"
+
+rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp17_v01_p5631_TREE/"
+
+rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp18_v01_p5631_TREE/"
 
 # === ttHH all had ===
 
