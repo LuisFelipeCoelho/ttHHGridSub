@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define the base directory
-base_dir="/eos/atlas/atlascerngroupdisk/phys-hdbs/diHiggs/ttHH/NTUPLES"
-#base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES"
+#base_dir="/eos/atlas/atlascerngroupdisk/phys-hdbs/diHiggs/ttHH/NTUPLES"
+base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES"
 
 # Define the user and file information
 user="lfaldaul"
@@ -67,13 +67,13 @@ rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410470.PhPy8EG_A14_
 # === ttbar all had ===
 
 # MC20a - r13167
-rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13167_p5855_TREE"
+rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13167_p5631_TREE"
 
 # MC20d - r13144
-rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13144_p5855_TREE"
+rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13144_p5631_TREE"
 
 # MC20e - r13145
-rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13145_p5855_TREE"
+rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13145_p5631_TREE"
 
 # === ttH all had ===
 
