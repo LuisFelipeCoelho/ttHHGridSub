@@ -10,13 +10,13 @@ campaign="005"
 
 # === data ===
 
-rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp15_v01_p5631_TREE/"
+rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp15_v01_p5855_TREE/"
 
-rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp16_v01_p5631_TREE/"
+rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp16_v01_p5855_TREE/"
 
-rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp17_v01_p5631_TREE/"
+rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp17_v01_p5855_TREE/"
 
-rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp18_v01_p5631_TREE/"
+rucio download --dir "$base_dir/data" "user.$user.$campaign.periodAllYear.physics_Main.grp18_v01_p5855_TREE/"
 
 # === ttHH all had ===
 
@@ -67,57 +67,57 @@ rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410470.PhPy8EG_A14_
 # === ttbar all had ===
 
 # MC20a - r13167
-rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13167_p5631_TREE"
+rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13167_p5855_TREE"
 
 # MC20d - r13144
-rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13144_p5631_TREE"
+rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13144_p5855_TREE"
 
 # MC20e - r13145
-rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13145_p5631_TREE"
+rucio download --dir "$base_dir/ttbar" "user.$user.$campaign.410471.PhPy8EG_A14_ttbar_hdamp258p75_allhad.e6337_s3681_r13145_p5855_TREE"
 
 # === ttH all had ===
 
 # MC20a - r13167
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346343.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_allhad.e7148_s3681_r13144_p5631_TREE"
+rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346343.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_allhad.e7148_s3681_r13144_p5855_TREE"
 
 # MC20d - r13144
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346343.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_allhad.e7148_s3681_r13145_p5631_TREE"
+rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346343.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_allhad.e7148_s3681_r13145_p5855_TREE"
 
 # MC20e - r13145
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346343.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_allhad.e7148_s3681_r13167_p5631_TREE"
+rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346343.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_allhad.e7148_s3681_r13167_p5855_TREE"
 
 # === ttH single lep ===
 
 # MC20a - r13167
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346344.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_semilep.e7148_s3681_r13144_p5631_TREE"
+rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346344.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_semilep.e7148_s3681_r13144_p5855_TREE"
 
 # MC20d - r13144
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346344.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_semilep.e7148_s3681_r13145_p5631_TREE"
+rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346344.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_semilep.e7148_s3681_r13145_p5855_TREE"
 
 # MC20e - r13145
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346344.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_semilep.e7148_s3681_r13167_p5631_TREE"
+rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346344.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_semilep.e7148_s3681_r13167_p5855_TREE"
 
 # === ttH dilep ===
 
 # MC20a - r13167
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346345.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_dilep.e7148_s3681_r13144_p5631_TREE"
+rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346345.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_dilep.e7148_s3681_r13144_p5855_TREE"
 
 # MC20d - r13144
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346345.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_dilep.e7148_s3681_r13145_p5631_TREE"
+rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346345.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_dilep.e7148_s3681_r13145_p5855_TREE"
 
 # MC20e - r13145
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346345.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_dilep.e7148_s3681_r13167_p5631_TREE"
+rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346345.PhPy8EG_A14NNPDF23_NNPDF30ME_ttH125_dilep.e7148_s3681_r13167_p5855_TREE"
 
 # === ttZqq ===
 
 # MC20a - r13167
-rucio download --dir "$base_dir/ttZqq" "user.$user.$campaign.410157.aMcAtNloPythia8EvtGen_MEN30NLO_A14N23LO_ttZqq.e5070_s3681_r13167_p5631_TREE"
+rucio download --dir "$base_dir/ttZqq" "user.$user.$campaign.410157.aMcAtNloPythia8EvtGen_MEN30NLO_A14N23LO_ttZqq.e5070_s3681_r13167_p5855_TREE"
 
 # MC20d - r13144
-rucio download --dir "$base_dir/ttZqq" "user.$user.$campaign.410157.aMcAtNloPythia8EvtGen_MEN30NLO_A14N23LO_ttZqq.e5070_s3681_r13144_p5631_TREE"
+rucio download --dir "$base_dir/ttZqq" "user.$user.$campaign.410157.aMcAtNloPythia8EvtGen_MEN30NLO_A14N23LO_ttZqq.e5070_s3681_r13144_p5855_TREE"
 
 # MC20e - r13145
-rucio download --dir "$base_dir/ttZqq" "user.$user.$campaign.410157.aMcAtNloPythia8EvtGen_MEN30NLO_A14N23LO_ttZqq.e5070_s3681_r13145_p5631_TREE"
+rucio download --dir "$base_dir/ttZqq" "user.$user.$campaign.410157.aMcAtNloPythia8EvtGen_MEN30NLO_A14N23LO_ttZqq.e5070_s3681_r13145_p5855_TREE"
 
 # === ttZZ ===
 
