@@ -4,8 +4,17 @@
 base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES/"
 
 # List of main folders
-folders=("data" "ttH" "ttHH" "ttZZ" "ttZqq" "ttbar" "tttt")
-#folders=("ttHH" "ttZZ" "ttZqq" "ttbar" "tttt")
+folders=("ttH" "ttHH" "ttZZ" "ttZqq" "ttbar" "tttt")
+
+# Function to run athena command
+run_athena() {
+    input_file="$1"
+    echo "Running athena for file: $input_file"
+    athena ../easyjet/ttHHAnalysis/scripts/ttHHPostProcess.py \
+             --inFile "$input_file" \
+             --xSectionsConfig ../easyjet/ttHHAnalysis/share/XSectionData.yaml \
+             --outFile "${input_file/.root/}_SumOfWeights.root"
+}
 
 # Iterate through each main folder
 for folder in "${folders[@]}"; do
@@ -22,8 +31,9 @@ for folder in "${folders[@]}"; do
             # Extract folder name from the path
             folder_name=$(basename "$internal_folder")
             # Perform merging operation using hadd
-            hadd -f "${internal_folder}/${folder_name}_merged.root" "${internal_folder}"/*.root
+            merged_file="${internal_folder}/${folder_name}_merged.root"
+            # Run athena command on the merged file
+            run_athena "$merged_file"
         fi
     done
 done
-
