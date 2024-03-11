@@ -1,11 +1,14 @@
 #!/bin/bash
 
 # Define the base directory
-base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES/"
+#base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES/"
+#base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_007_DL1/"
+base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_007_GN2_85/"
 
 # List of main folders
-folders=("data" "ttH" "ttHH" "ttZZ" "ttZqq" "ttbar" "tttt")
-#folders=("ttHH" "ttZZ" "ttZqq" "ttbar" "tttt")
+#folders=("data" "ttH" "ttHH" "ttZZ" "ttZqq" "ttbar" "tttt")
+#folders=("ttHH" "ttZZ" "ttZqq" "ttbar" "tttt" "ttH")
+folders=("ttWZ" "ttWH") #"vvvv" "ttWH", "ttHH")
 
 # Iterate through each main folder
 for folder in "${folders[@]}"; do
