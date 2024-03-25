@@ -2,3 +2,5 @@ data15_13TeV.periodAllYear.physics_Main.PhysCont.DAOD_PHYSLITE.grp15_v01_p5855
 data17_13TeV.periodAllYear.physics_Main.PhysCont.DAOD_PHYSLITE.grp17_v01_p5855
 data16_13TeV.periodAllYear.physics_Main.PhysCont.DAOD_PHYSLITE.grp16_v01_p5855
 data18_13TeV.periodAllYear.physics_Main.PhysCont.DAOD_PHYSLITE.grp18_v01_p5855
+
+data22_13p6TeV.periodAllYear.physics_Main.PhysCont.DAOD_PHYSLITE.grp22_v02_p5858
