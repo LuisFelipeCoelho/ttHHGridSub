@@ -1,12 +1,11 @@
 #!/bin/bash
 
 # Define the base directory
-base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_010_GN2_77/"
+base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_013_GN2_77/"
 
 # List of main folders
-#folders=("data" "ttH" "ttHH" "ttZZ" "ttZ" "ttbar" "tttt" "vvvv" "ttWZ" "ttWH" "ttW" "ttt" "ttWW" "Vjets")
-folders=("ttHH")
-
+folders=("data" "ttbar_hdamp258p75_allhad")
+#folders=("3top" "tt1W" "ttH125" "ttH_mc23" "ttHH" "ttHH_mc23" "ttVV_mc23" "ttWW" "ttZZ" "ttbar_hdamp258p75_allhad" "ttbar_mc23" "ttbar_hdamp258p75_dilep" "ttbar_hdamp258p75_nonallhad" "tttt" "Vjets" "singleTop" "tt1Z" "ttWH" "ttWZ")
 
 # Function to run athena command
 run_athena() {

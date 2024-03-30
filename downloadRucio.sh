@@ -16,54 +16,54 @@ rucio download --dir "$base_dir/data" "user.$user.$campaignData.data18_13TeV.per
 rucio download --dir "$base_dir/data" "user.$user.$campaignData.data22_13p6TeV.periodAllYear.grp22_v02_p5858_TREE/"
 
 # === ttHH all had ===
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.523074.e8531_a907_r14859_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.523074.e8531_a907_r14860_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.523074.e8531_a907_r14861_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_allhad" "user.$user.$campaign.523074.e8531_a907_r14859_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_allhad" "user.$user.$campaign.523074.e8531_a907_r14860_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_allhad" "user.$user.$campaign.523074.e8531_a907_r14861_p5855_TREE/"
 
 # === ttHH semi lep ===
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.523072.e8531_a907_r14859_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.523072.e8531_a907_r14860_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.523072.e8531_a907_r14861_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_semilep" "user.$user.$campaign.523072.e8531_a907_r14859_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_semilep" "user.$user.$campaign.523072.e8531_a907_r14860_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_semilep" "user.$user.$campaign.523072.e8531_a907_r14861_p5855_TREE/"
 
 # === ttHH di lep ===
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.523073.e8531_a907_r14859_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.523073.e8531_a907_r14860_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.523073.e8531_a907_r14861_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_dilep" "user.$user.$campaign.523073.e8531_a907_r14859_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_dilep" "user.$user.$campaign.523073.e8531_a907_r14860_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_dilep" "user.$user.$campaign.523073.e8531_a907_r14861_p5855_TREE/"
 
 # === ttHH SSML ===
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.525963.e8531_a907_r14860_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.525963.e8531_a907_r14861_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH" "user.$user.$campaign.525963.e8531_a907_r14859_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_orth4b_SSML" "user.$user.$campaign.525963.e8531_a907_r14860_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_orth4b_SSML" "user.$user.$campaign.525963.e8531_a907_r14861_p5855_TREE/"
+rucio download --dir "$base_dir/ttHH_orth4b_SSML" "user.$user.$campaign.525963.e8531_a907_r14859_p5855_TREE/"
 
 # === ttbar all hadronic ===
-rucio download --dir "$base_dir/ttba_allhad" "user.$user.$campaign.410471.e6337_s3681_r13144_p5855_TREE/"
-rucio download --dir "$base_dir/ttbar_allhad" "user.$user.$campaign.410471.e6337_s3681_r13145_p5855_TREE/"
-rucio download --dir "$base_dir/ttbar_allhad" "user.$user.$campaign.410471.e6337_s3681_r13167_p5855_TREE/"
+rucio download --dir "$base_dir/ttbar_hdamp258p75_allhad" "user.$user.$campaign.410471.e6337_s3681_r13144_p5855_TREE/"
+rucio download --dir "$base_dir/ttbar_hdamp258p75_allhad" "user.$user.$campaign.410471.e6337_s3681_r13145_p5855_TREE/"
+rucio download --dir "$base_dir/ttbar_hdamp258p75_allhad" "user.$user.$campaign.410471.e6337_s3681_r13167_p5855_TREE/"
 
 # === ttbar dileptonic ===
-rucio download --dir "$base_dir/ttbar_dilep" "user.$user.$campaign.410472.e6348_s3681_r13144_p5855_TREE/"
-rucio download --dir "$base_dir/ttbar_dilep" "user.$user.$campaign.410472.e6348_s3681_r13145_p5855_TREE/"
-rucio download --dir "$base_dir/ttbar_dilep" "user.$user.$campaign.410472.e6348_s3681_r13167_p5855_TREE/"
+rucio download --dir "$base_dir/ttbar_hdamp258p75_dilep" "user.$user.$campaign.410472.e6348_s3681_r13144_p5855_TREE/"
+rucio download --dir "$base_dir/ttbar_hdamp258p75_dilep" "user.$user.$campaign.410472.e6348_s3681_r13145_p5855_TREE/"
+rucio download --dir "$base_dir/ttbar_hdamp258p75_dilep" "user.$user.$campaign.410472.e6348_s3681_r13167_p5855_TREE/"
 
 # === ttbar non-all hadronic ===
-rucio download --dir "$base_dir/ttbar_nonallhad" "user.$user.$campaign.410470.e6337_s3681_r13167_p5855_TREE/"
-rucio download --dir "$base_dir/ttbar_nonallhad" "user.$user.$campaign.410470.e6337_s3681_r13145_p5855_TREE/"
-rucio download --dir "$base_dir/ttbar_nonallhad" "user.$user.$campaign.410470.e6337_s3681_r13144_p5855_TREE/"
+rucio download --dir "$base_dir/ttbar_hdamp258p75_nonallhad" "user.$user.$campaign.410470.e6337_s3681_r13167_p5855_TREE/"
+rucio download --dir "$base_dir/ttbar_hdamp258p75_nonallhad" "user.$user.$campaign.410470.e6337_s3681_r13145_p5855_TREE/"
+rucio download --dir "$base_dir/ttbar_hdamp258p75_nonallhad" "user.$user.$campaign.410470.e6337_s3681_r13144_p5855_TREE/"
 
 # === ttH all hadronic ===
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346343.e7148_s3681_r13144_p5855_TREE/"
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346343.e7148_s3681_r13145_p5855_TREE/"
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346343.e7148_s3681_r13167_p5855_TREE/"
+rucio download --dir "$base_dir/ttH125" "user.$user.$campaign.346343.e7148_s3681_r13144_p5855_TREE/"
+rucio download --dir "$base_dir/ttH125" "user.$user.$campaign.346343.e7148_s3681_r13145_p5855_TREE/"
+rucio download --dir "$base_dir/ttH125" "user.$user.$campaign.346343.e7148_s3681_r13167_p5855_TREE/"
 
 # === ttH dileptonic ===
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346345.e7148_s3681_r13144_p5855_TREE/"
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346345.e7148_s3681_r13145_p5855_TREE/"
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346345.e7148_s3681_r13167_p5855_TREE/"
+rucio download --dir "$base_dir/ttH125" "user.$user.$campaign.346345.e7148_s3681_r13144_p5855_TREE/"
+rucio download --dir "$base_dir/ttH125" "user.$user.$campaign.346345.e7148_s3681_r13145_p5855_TREE/"
+rucio download --dir "$base_dir/ttH125" "user.$user.$campaign.346345.e7148_s3681_r13167_p5855_TREE/"
 
 # === ttH semileptonic ===
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346344.e7148_s3681_r13144_p5855_TREE/"
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346344.e7148_s3681_r13145_p5855_TREE/"
-rucio download --dir "$base_dir/ttH" "user.$user.$campaign.346344.e7148_s3681_r13167_p5855_TREE/"
+rucio download --dir "$base_dir/ttH125" "user.$user.$campaign.346344.e7148_s3681_r13144_p5855_TREE/"
+rucio download --dir "$base_dir/ttH125" "user.$user.$campaign.346344.e7148_s3681_r13145_p5855_TREE/"
+rucio download --dir "$base_dir/ttH125" "user.$user.$campaign.346344.e7148_s3681_r13167_p5855_TREE/"
 
 # === ttZqq ===
 rucio download --dir "$base_dir/tt1Z" "user.$user.$campaign.504338.e8255_s3797_r13167_p5855_TREE/"

@@ -1,15 +1,11 @@
 #!/bin/bash
 
 # Define the base directory
-#base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES/"
-#base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_007_DL1/"
-base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_011_GN2_77/"
+base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_013_GN2_77/"
 
 # List of main folders
-#folders=("data" "ttH" "ttHH" "ttZZ" "ttZ" "ttbar" "tttt" "vvvv" "ttWZ" "ttWH" "tt1W" "3top" "ttWW" "Vjets")
-#folders=("ttH" "ttZZ" "ttZ" "ttbar" "tttt" "vvvv" "ttWZ" "ttWH" "ttt" "ttWW")
-#folders=("tt1W" "Vjets" "3top")
-folders=("ttHH")
+#folders=("data" "ttbar_hdamp258p75_allhad")
+folders=("data" "ttbar_hdamp258p75_allhad" "3top" "tt1W" "ttH125" "ttH_mc23" "ttHH" "ttHH_mc23" "ttVV_mc23" "ttWW" "ttZZ" "ttbar_hdamp258p75_allhad" "ttbar_mc23" "ttbar_hdamp258p75_dilep" "ttbar_hdamp258p75_nonallhad" "tttt" "Vjets" "singleTop" "tt1Z" "ttWH" "ttWZ")
 
 
 # Iterate through each main folder
@@ -27,7 +23,7 @@ for folder in "${folders[@]}"; do
             # Extract folder name from the path
             folder_name=$(basename "$internal_folder")
             # Perform merging operation using hadd
-            hadd "${internal_folder}/${folder_name}_merged.root" "${internal_folder}"/*.root
+            hadd -f "${internal_folder}/${folder_name}_merged.root" "${internal_folder}"/*.root
         fi
     done
 done
