@@ -1,0 +1,1273 @@
++--------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                         | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619367_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619372_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619374_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619378_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619380_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619384_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619387_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617679_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617682_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617686_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617689_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617692_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617695_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617698_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617703_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617742_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622312_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622315_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622318_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701040.Sh_2214_llll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622320_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                               | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822378_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822426_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617436_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617706_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821792_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701041.Sh_2214_llll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821945_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                               | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821923_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822186_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617222_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617438_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821794_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701042.Sh_2214_llll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821949_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                | [DID TYPE]        |
+|---------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822191_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822382_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617224_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617444_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821796_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701043.Sh_2214_llll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821953_00 | DIDType.DATASET   |
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                | [DID TYPE]        |
+|---------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822402_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617228_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617446_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821957_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701044.Sh_2214_llll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822211_00 | DIDType.DATASET   |
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                         | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619393_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619395_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617231_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617449_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622324_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701045.Sh_2214_lllv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622326_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                               | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821931_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822200_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617235_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617718_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821801_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701046.Sh_2214_lllv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821965_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                               | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821935_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822204_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617709_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617722_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821803_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701047.Sh_2214_lllv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821969_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                | [DID TYPE]        |
+|---------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821939_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822406_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617237_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617453_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821805_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701048.Sh_2214_lllv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821973_00 | DIDType.DATASET   |
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                | [DID TYPE]        |
+|---------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821943_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822209_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617241_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617456_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821807_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701049.Sh_2214_lllv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821977_00 | DIDType.DATASET   |
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                            | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619399_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619401_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617243_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617459_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622330_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701050.Sh_2214_llvv_os.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622332_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821951_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822213_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617248_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617462_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821809_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701051.Sh_2214_llvv_os_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821985_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822217_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822386_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617251_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617465_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821811_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701052.Sh_2214_llvv_os_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822255_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++------------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                   | [DID TYPE]        |
+|------------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821955_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822414_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617253_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617468_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821813_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701053.Sh_2214_llvv_os_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821989_00 | DIDType.DATASET   |
++------------------------------------------------------------------------------------------------------------------------------+-------------------+
++------------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                   | [DID TYPE]        |
+|------------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822221_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822388_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617473_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617739_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821815_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701054.Sh_2214_llvv_os_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821993_00 | DIDType.DATASET   |
++------------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                            | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619405_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619408_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617258_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617476_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622335_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701055.Sh_2214_llvv_ss.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622338_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821963_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822229_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617260_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617480_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821819_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701056.Sh_2214_llvv_ss_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822001_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821967_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822451_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617484_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617749_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822005_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701057.Sh_2214_llvv_ss_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822243_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++------------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                   | [DID TYPE]        |
+|------------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821971_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822233_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617263_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617486_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821821_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701058.Sh_2214_llvv_ss_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822009_00 | DIDType.DATASET   |
++------------------------------------------------------------------------------------------------------------------------------+-------------------+
++------------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                   | [DID TYPE]        |
+|------------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821975_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822237_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617266_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617490_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821824_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701059.Sh_2214_llvv_ss_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822013_00 | DIDType.DATASET   |
++------------------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                         | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619413_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619416_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617269_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617492_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622341_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701060.Sh_2214_lvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622344_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                               | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821983_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822418_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617496_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617712_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821828_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701061.Sh_2214_lvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822021_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                               | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821987_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822245_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617272_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617725_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822231_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701062.Sh_2214_lvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822275_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                | [DID TYPE]        |
+|---------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821991_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822422_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617278_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617501_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821830_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701063.Sh_2214_lvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822025_00 | DIDType.DATASET   |
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                | [DID TYPE]        |
+|---------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822249_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822392_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617505_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617734_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821832_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701064.Sh_2214_lvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822029_00 | DIDType.DATASET   |
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                         | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619420_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619423_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617280_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617508_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622347_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701065.Sh_2214_vvvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622350_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                               | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37821999_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822440_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617286_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617728_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821836_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701066.Sh_2214_vvvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822037_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                               | [DID TYPE]        |
+|--------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822253_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822396_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617288_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617731_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821838_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701067.Sh_2214_vvvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822219_00 | DIDType.DATASET   |
++--------------------------------------------------------------------------------------------------------------------------+-------------------+
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                | [DID TYPE]        |
+|---------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822003_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822257_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617511_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617716_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821840_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701068.Sh_2214_vvvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822040_00 | DIDType.DATASET   |
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                | [DID TYPE]        |
+|---------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822261_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822398_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617292_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617514_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821842_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701069.Sh_2214_vvvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822044_00 | DIDType.DATASET   |
++---------------------------------------------------------------------------------------------------------------------------+-------------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++--------------+--------------+
+| SCOPE:NAME   | [DID TYPE]   |
+|--------------+--------------|
++--------------+--------------+
++----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                           | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619426_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619429_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617294_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617519_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622352_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701085.Sh_2214_ZqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622356_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822011_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822269_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617296_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617524_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821846_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701086.Sh_2214_ZqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822052_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822015_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822273_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617301_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617527_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821848_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701087.Sh_2214_ZqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822056_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822020_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822277_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617304_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617530_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821850_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701088.Sh_2214_ZqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822061_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822023_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822444_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617308_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617533_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821852_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701089.Sh_2214_ZqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822064_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                           | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619432_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619436_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617310_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617535_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622358_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701090.Sh_2214_ZbbZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622361_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822033_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822281_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617315_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617541_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821856_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701091.Sh_2214_ZbbZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822072_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822038_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822283_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617317_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617543_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821858_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701092.Sh_2214_ZbbZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822259_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822042_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822459_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617321_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617547_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821860_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701093.Sh_2214_ZbbZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822076_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822046_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822285_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617323_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617551_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821862_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701094.Sh_2214_ZbbZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822080_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                           | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619438_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619443_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617328_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617555_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622364_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701095.Sh_2214_ZqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622366_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822054_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822289_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617330_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617558_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821864_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701096.Sh_2214_ZqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822235_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822058_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822291_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617336_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617563_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821866_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701097.Sh_2214_ZqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822088_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822062_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822293_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617338_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617565_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821868_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701098.Sh_2214_ZqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822092_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822066_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822295_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617340_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617569_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821870_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701099.Sh_2214_ZqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822263_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                           | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619445_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619448_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617344_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617571_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622370_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701100.Sh_2214_ZbbZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622372_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822074_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822299_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617347_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617575_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821874_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701101.Sh_2214_ZbbZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822100_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822078_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822301_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617351_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617580_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821876_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701102.Sh_2214_ZbbZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822239_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822082_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822303_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617353_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617584_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821878_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701103.Sh_2214_ZbbZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822104_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822086_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822305_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617357_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617586_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821880_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701104.Sh_2214_ZbbZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822108_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                           | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619454_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619458_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617360_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617589_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622376_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701105.Sh_2214_WqqZll.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622378_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822094_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822310_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617365_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617593_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821885_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701106.Sh_2214_WqqZll_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822116_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822098_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822312_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617367_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617596_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821887_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701107.Sh_2214_WqqZll_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822120_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822102_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822314_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617370_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617601_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821889_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701108.Sh_2214_WqqZll_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822124_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822106_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822316_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617604_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617752_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821891_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701109.Sh_2214_WqqZll_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822128_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                           | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619464_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619466_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617374_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617607_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622382_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701110.Sh_2214_WqqZvv.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622384_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822114_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822320_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617377_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617612_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821895_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701111.Sh_2214_WqqZvv_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822136_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822118_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822322_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617380_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617616_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821897_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701112.Sh_2214_WqqZvv_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822140_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822122_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822324_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617384_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617619_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821899_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701113.Sh_2214_WqqZvv_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822144_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822126_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822327_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617623_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617746_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821901_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701114.Sh_2214_WqqZvv_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822148_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                           | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701115.NA.deriv.DAOD_PHYSLITE.37822130_sub4877993                                              | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619473_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822130_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617387_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617625_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622388_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701115.Sh_2214_WlvZqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622390_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822134_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822331_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617391_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617629_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821905_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701116.Sh_2214_WlvZqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822156_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822138_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822333_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617395_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617631_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821907_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701117.Sh_2214_WlvZqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822160_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822142_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822335_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617397_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617635_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821909_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701118.Sh_2214_WlvZqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822164_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822146_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822337_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617400_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617638_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821911_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701119.Sh_2214_WlvZqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822168_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                           | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619481_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619488_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617404_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617644_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622394_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701120.Sh_2214_WlvZbb.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622396_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822150_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822341_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617648_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617755_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701121.Sh_2214_WlvZbb_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822176_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822154_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822343_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617408_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617650_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821917_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701122.Sh_2214_WlvZbb_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822180_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822158_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822345_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617410_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617655_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821919_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701123.Sh_2214_WlvZbb_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822184_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822162_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822347_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617415_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617658_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821921_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701124.Sh_2214_WlvZbb_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822189_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                           | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619497_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37619504_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617419_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617661_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622400_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701125.Sh_2214_WlvWqq.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37622403_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822170_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822351_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617422_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617665_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821929_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701126.Sh_2214_WlvWqq_MUQ20.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822198_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                 | [DID TYPE]        |
+|----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822174_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822353_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617426_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617668_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821933_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701127.Sh_2214_WlvWqq_MUQ05.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822202_00 | DIDType.DATASET   |
++----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822178_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822355_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617430_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617673_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822251_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701128.Sh_2214_WlvWqq_CKKW30.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822267_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+
+| SCOPE:NAME                                                                                                                  | [DID TYPE]        |
+|-----------------------------------------------------------------------------------------------------------------------------+-------------------|
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026                | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13144_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13145_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_s3797_r13167_p6026                             | DIDType.CONTAINER |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822182_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13144_r13146_p6026_tid37822359_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617433_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13145_r13146_p6026_tid37617676_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37821937_00 | DIDType.DATASET   |
+| mc20_13TeV:mc20_13TeV.701129.Sh_2214_WlvWqq_CKKW15.deriv.DAOD_PHYSLITE.e8547_e8455_s3797_r13167_r13146_p6026_tid37822207_00 | DIDType.DATASET   |
++-----------------------------------------------------------------------------------------------------------------------------+-------------------+

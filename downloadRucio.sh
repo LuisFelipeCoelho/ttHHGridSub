@@ -1,19 +1,23 @@
 #!/bin/bash
 
 # Define the base directory
-base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_013_GN2_77/"
+base_dir="/eos/atlas/atlascerngroupdisk/phys-hdbs/diHiggs/ttHH/NTUPLES_GN2_77_015/"
 
 # Define the user and file information
 user="lfaldaul"
-campaign="013_GN2_77"
-campaignData="013_GN2_77_data"
+campaign="01_GN2_77.2024_05_07_T163334"
+campaignData="01_GN2_77.2024_05_07_T162449" 
+
+#base_dir="/eos/atlas/atlascerngroupdisk/phys-hdbs/diHiggs/ttHH/FLAT_NTUPLES_015_GN2_85_sys"
+#campaign="02_GN2_85.2024_05_07_T133640"
+#campaignData="02_GN2_85.2024_05_07_T132836" 
 
 # === data ===
 rucio download --dir "$base_dir/data" "user.$user.$campaignData.data15_13TeV.periodAllYear.grp15_v01_p5855_TREE/"
 rucio download --dir "$base_dir/data" "user.$user.$campaignData.data16_13TeV.periodAllYear.grp16_v01_p5855_TREE/"
 rucio download --dir "$base_dir/data" "user.$user.$campaignData.data17_13TeV.periodAllYear.grp17_v01_p5855_TREE/"
 rucio download --dir "$base_dir/data" "user.$user.$campaignData.data18_13TeV.periodAllYear.grp18_v01_p5855_TREE/"
-rucio download --dir "$base_dir/data" "user.$user.$campaignData.data22_13p6TeV.periodAllYear.grp22_v02_p5858_TREE/"
+#rucio download --dir "$base_dir/data" "user.$user.$campaignData.data22_13p6TeV.periodAllYear.grp22_v02_p5858_TREE/"
 
 # === ttHH all had ===
 rucio download --dir "$base_dir/ttHH_allhad" "user.$user.$campaign.523074.e8531_a907_r14859_p5855_TREE/"
@@ -34,6 +38,26 @@ rucio download --dir "$base_dir/ttHH_dilep" "user.$user.$campaign.523073.e8531_a
 rucio download --dir "$base_dir/ttHH_orth4b_SSML" "user.$user.$campaign.525963.e8531_a907_r14860_p5855_TREE/"
 rucio download --dir "$base_dir/ttHH_orth4b_SSML" "user.$user.$campaign.525963.e8531_a907_r14861_p5855_TREE/"
 rucio download --dir "$base_dir/ttHH_orth4b_SSML" "user.$user.$campaign.525963.e8531_a907_r14859_p5855_TREE/"
+
+# === ttbb 4FS_bzd5 dilep ===
+rucio download --dir "$base_dir/tt4b_bzd5_dilep" "user.$user.$campaign.603190.e8555_s3797_r13144_p6026_TREE/"
+rucio download --dir "$base_dir/tt4b_bzd5_dilep" "user.$user.$campaign.603190.e8555_s3797_r13145_p6026_TREE/"
+rucio download --dir "$base_dir/tt4b_bzd5_dilep" "user.$user.$campaign.603190.e8555_s3797_r13167_p6026_TREE/"
+
+# === ttbb 4FS_pTdef1_pThard1 dilep ===
+#rucio download --dir "$base_dir/tt4b_pThard1_dilep" "user.$user.$campaign.603191.e8555_s3797_r13144_p6026_TREE/"
+#rucio download --dir "$base_dir/tt4b_pThard1_dilep" "user.$user.$campaign.603191.e8555_s3797_r13145_p6026_TREE/"
+#rucio download --dir "$base_dir/tt4b_pThard1_dilep" "user.$user.$campaign.603191.e8555_s3797_r13167_p6026_TREE/"
+
+# === ttbb 4FS_bzd5 semilep ===
+rucio download --dir "$base_dir/tt4b_bzd5_semilep" "user.$user.$campaign.603192.e8555_s3797_r13144_p6026_TREE/"
+rucio download --dir "$base_dir/tt4b_bzd5_semilep" "user.$user.$campaign.603192.e8555_s3797_r13145_p6026_TREE/"
+rucio download --dir "$base_dir/tt4b_bzd5_semilep" "user.$user.$campaign.603192.e8555_s3797_r13167_p6026_TREE/"
+
+# === ttbb 4FS_pTdef1_pThard1 semilep ===
+#rucio download --dir "$base_dir/tt4b_pThard1_semilep" "user.$user.$campaign.603193.e8555_s3797_r13144_p6026_TREE/"
+#rucio download --dir "$base_dir/tt4b_pThard1_semilep" "user.$user.$campaign.603193.e8555_s3797_r13145_p6026_TREE/"
+#rucio download --dir "$base_dir/tt4b_pThard1_semilep" "user.$user.$campaign.603193.e8555_s3797_r13167_p6026_TREE/"
 
 # === ttbar all hadronic ===
 rucio download --dir "$base_dir/ttbar_hdamp258p75_allhad" "user.$user.$campaign.410471.e6337_s3681_r13144_p5855_TREE/"
@@ -295,19 +319,23 @@ rucio download --dir "$base_dir/Vjets" "user.$user.$campaign.700349.e8351_s3681_
 rucio download --dir "$base_dir/Vjets" "user.$user.$campaign.700349.e8351_s3681_r13167_p5855_TREE/"
 
 # === ttbar mc23 ===
-rucio download --dir "$base_dir/ttbar_mc23" "user.$user.$campaign.601237.e8514_s4162_r14622_p5855_TREE/"
-rucio download --dir "$base_dir/ttbar_mc23" "user.$user.$campaign.601230.e8514_s4162_r14622_p5855_TREE/"
-rucio download --dir "$base_dir/ttbar_mc23" "user.$user.$campaign.601229.e8514_s4162_r14622_p5855_TREE/"
+#rucio download --dir "$base_dir/ttbar_mc23" "user.$user.$campaign.601237.e8514_s4162_r14622_p5855_TREE/"
+#rucio download --dir "$base_dir/ttbar_mc23" "user.$user.$campaign.601230.e8514_s4162_r14622_p5855_TREE/"
+#rucio download --dir "$base_dir/ttbar_mc23" "user.$user.$campaign.601229.e8514_s4162_r14622_p5855_TREE/"
 
 # === mc 23 ===
-rucio download --dir "$base_dir/ttH_mc23" "user.$user.$campaign.602637.e8549_s4162_r14622_p5855_TREE/"
-rucio download --dir "$base_dir/ttH_mc23" "user.$user.$campaign.602638.e8549_s4162_r14622_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH_mc23" "user.$user.$campaign.523074.e8549_a910_r14932_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH_mc23" "user.$user.$campaign.523073.e8549_a910_r14932_p5855_TREE/"
-rucio download --dir "$base_dir/ttHH_mc23" "user.$user.$campaign.523072.e8549_a910_r14932_p5855_TREE/"
+#rucio download --dir "$base_dir/ttH_mc23" "user.$user.$campaign.602637.e8549_s4162_r14622_p5855_TREE/"
+#rucio download --dir "$base_dir/ttH_mc23" "user.$user.$campaign.602638.e8549_s4162_r14622_p5855_TREE/"
 
-rucio download --dir "$base_dir/ttVV_mc23" "user.$user.$campaign.525360.e8532_s4162_r14622_p5855_TREE/"
-rucio download --dir "$base_dir/ttVV_mc23" "user.$user.$campaign.525357.e8532_s4162_r14622_p5855_TREE/"
-rucio download --dir "$base_dir/ttVV_mc23" "user.$user.$campaign.525358.e8532_s4162_r14622_p5855_TREE/"
-rucio download --dir "$base_dir/ttVV_mc23" "user.$user.$campaign.525361.e8532_s4162_r14622_p5855_TREE/"
+#rucio download --dir "$base_dir/ttHH_mc23" "user.$user.$campaign.523074.e8549_a910_r14932_p5855_TREE/"
+#rucio download --dir "$base_dir/ttHH_mc23" "user.$user.$campaign.523073.e8549_a910_r14932_p5855_TREE/"
+#rucio download --dir "$base_dir/ttHH_mc23" "user.$user.$campaign.523072.e8549_a910_r14932_p5855_TREE/"
+
+#rucio download --dir "$base_dir/ttVV_mc23" "user.$user.$campaign.525360.e8532_s4162_r14622_p5855_TREE/"
+#rucio download --dir "$base_dir/ttVV_mc23" "user.$user.$campaign.525357.e8532_s4162_r14622_p5855_TREE/"
+#rucio download --dir "$base_dir/ttVV_mc23" "user.$user.$campaign.525358.e8532_s4162_r14622_p5855_TREE/"
+#rucio download --dir "$base_dir/ttVV_mc23" "user.$user.$campaign.525361.e8532_s4162_r14622_p5855_TREE/"
+
+#rucio download --dir "$base_dir/singleTop_mc23" "user.$user.$campaign.525955.e8558_s4159_r15224_p6026_TREE/"
+#rucio download --dir "$base_dir/singleTop_mc23" "user.$user.$campaign.525955.e8558_s4162_r14622_p6056_TREE/"
 

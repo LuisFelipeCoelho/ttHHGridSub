@@ -25,9 +25,9 @@ def delete_empty_merged_root_files(directory):
                 if num_entries == 0:
                     print(f"Deleting ROOT file with zero entries: {file_path}")
                     root_file.Close()
-                    os.remove(file_path)
+                    #os.remove(file_path)
 
 # Replace 'directory_path' with the path to your folder containing subfolders with ROOT files
-directory_path = '/eos/home-l/lfaldaul/ttHH/NTUPLES_013_GN2_77/'
+directory_path = '/eos/home-l/lfaldaul/ttHH/NTUPLES_GN2_77_015_merged/'
 delete_empty_merged_root_files(directory_path)
 
