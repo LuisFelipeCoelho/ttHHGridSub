@@ -28,6 +28,7 @@ def delete_empty_merged_root_files(directory):
                     #os.remove(file_path)
 
 # Replace 'directory_path' with the path to your folder containing subfolders with ROOT files
-directory_path = '/eos/home-l/lfaldaul/ttHH/NTUPLES_GN2_77_015_merged/'
+#directory_path = '/eos/atlas/atlascerngroupdisk/phys-hdbs/diHiggs/ttHH/NTUPLES_042_GN2v00/'
+directory_path = '/eos/home-l/lfaldaul/ttHH_analysis_5Jul_042_GN2v01/ntuples_forAnalysis/1L/'
 delete_empty_merged_root_files(directory_path)
 

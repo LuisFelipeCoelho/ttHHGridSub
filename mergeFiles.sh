@@ -1,14 +1,17 @@
 #!/bin/bash
 
 # Define the base directory
-base_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_GN2_77_015/"
+base_dir="/eos/atlas/atlascerngroupdisk/phys-hdbs/diHiggs/ttHH/NTUPLES_030_GN2v00/"
 
 # Define the destination directory for merged files
-destination_dir="/eos/home-l/lfaldaul/ttHH/NTUPLES_GN2_77_015_merged/"
+destination_dir="/eos/atlas/atlascerngroupdisk/phys-hdbs/diHiggs/ttHH/NTUPLES_030_GN2v00_merged/"
 
 # List of main folders
 #folders=("3top" "singleTop" "tt1Z" "tt4b_bzd5_semilep" "ttH125" "ttHH_dilep" "ttHH_semilep" "ttWH" "ttWZ" "Vjets" "data" "tt1W" "tt4b_bzd5_dilep" "ttbar_hdamp258p75_allhad" "ttbar_hdamp258p75_nonallhad" "ttHH_allhad" "ttHH_orth4b_SSML" "tttt" "ttWW" "ttZZ")
-folders=("Vjets")
+#folders=("Vjets")
+
+#folders=("data"
+folders=("ttH125" "ttHH_dilep" "ttHH_semilep" "ttWW" "ttZZ" "ttbar_hdamp258p75_nonallhad" "Vjets" "singleTop" "tt1Z" "ttHH_allhad" "ttHH_orth4b_SSML" "ttWH" "ttWZ" "ttbar_hdamp258p75_allhad" "tttt" "3top" "tt1W" "HV" "VVV" "ttbb")
 
 for folder in "${folders[@]}"; do
     echo "Processing files in folder: $folder"
