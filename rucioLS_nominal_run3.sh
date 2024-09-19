@@ -7,7 +7,7 @@ run_rucio_ls() {
     end=$3
     string=$4
     for ((id=start; id<=end; id++)); do
-	echo $prefix.$id.$string >> rucioLS.log
+	echo $prefix.$id.$string >> rucioLS_nominal_run3.log
         rucio ls $prefix.$id.$string --filter type=CONTAINER >> rucioLS_nominal_run3.log 2>&1
     done
 }
@@ -23,7 +23,7 @@ run_rucio_ls "mc23_13p6TeV" 525963 525963 "*PHYSLITE*_p6266"
 run_rucio_ls "mc23_13p6TeV" 601229 601230 "*PHYSLITE*_p6266"
 
 # ttH
-run_rucio_ls "mc23_13p6TeV" 602635 602638 "*PHYSLITE*_p6266"
+run_rucio_ls "mc23_13p6TeV" 602635 602638 "*PHYS.*_p6266"
 
 # ttW 
 run_rucio_ls "mc23_13p6TeV" 601352 601352 "*PHYSLITE*_p6266"

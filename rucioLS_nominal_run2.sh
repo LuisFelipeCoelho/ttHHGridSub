@@ -7,7 +7,7 @@ run_rucio_ls() {
     end=$3
     string=$4
     for ((id=start; id<=end; id++)); do
-	echo $prefix.$id.$string >> rucioLS.log
+	echo $prefix.$id.$string >> rucioLS_nominal_run2.log
         rucio ls $prefix.$id.$string --filter type=CONTAINER >> rucioLS_nominal_run2.log 2>&1
     done
 }
@@ -29,7 +29,7 @@ run_rucio_ls "mc20_13TeV" 603192 603192 "*PHYSLITE*_p6266"
 run_rucio_ls "mc20_13TeV" 346344 346345 "*PHYSLITE*_p6266"
 
 # tW
-run_rucio_ls "mc20_13TeV" 410646 410647 "*PHYSLITE*_p6266"
+run_rucio_ls "mc20_13TeV" 410646 410647 "*PHYS.*_p6266"
 
 # SingleTop
 run_rucio_ls "mc20_13TeV" 410658 410659 "*PHYSLITE*_p6266"
@@ -37,10 +37,10 @@ run_rucio_ls "mc20_13TeV" 410644 410645 "*PHYSLITE*_p6266"
 
 # tWZ and tZ
 run_rucio_ls "mc20_13TeV" 410408 410408 "*PHYSLITE*_p6266"
-run_rucio_ls "mc20_13TeV" 410560 410560 "*PHYSLITE*_p6266"
+run_rucio_ls "mc20_13TeV" 410560 410560 "*PHYS.*_p6266"
 
 # 4tops
-run_rucio_ls "mc20_13TeV" 412043 412043 "*PHYSLITE*_p6266"
+run_rucio_ls "mc20_13TeV" 412043 412043 "*PHYS.*_p6266"
 
 # ttW
 run_rucio_ls "mc20_13TeV" 700168 700168 "*PHYSLITE*_p6266"
@@ -54,13 +54,14 @@ run_rucio_ls "mc20_13TeV" 504338 504338 "*PHYSLITE*_p6266"
 
 # ttVV
 run_rucio_ls "mc20_13TeV" 410081 410081 "*PHYSLITE*_p6266"
-run_rucio_ls "mc20_13TeV" 500461 500463 "*PHYSLITE*_p6266"
+run_rucio_ls "mc20_13TeV" 500461 500463 "*PHYS.*_p6266"
 
 # 3top
-run_rucio_ls "mc20_13TeV" 516978 516978 "*PHYSLITE*_p6266"
+run_rucio_ls "mc20_13TeV" 516978 516978 "*PHYS.*_p6266"
 
 # VH
-run_rucio_ls "mc20_13TeV" 346645 346647 "*PHYSLITE*_p6266"
+run_rucio_ls "mc20_13TeV" 346645 346646 "*PHYS.*_p6266"
+run_rucio_ls "mc20_13TeV" 346647 346647 "*PHYSLITE.*_p6266"
 
 # VVV
 run_rucio_ls "mc20_13TeV" 364242 364249 "*PHYSLITE*_p6266"
