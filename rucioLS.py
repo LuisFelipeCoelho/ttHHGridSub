@@ -19,6 +19,33 @@ data = {
 }
 
 
+exclude_run2 = [
+"ttbar_hdamp258p75_nonallhad.deriv.DAOD_PHYSLITE.e6337_a907_",
+"ttHH_semilep.deriv.DAOD_PHYSLITE.e8531_s3797_",
+"ttHH_dilep.deriv.DAOD_PHYSLITE.e8531_s3797_",
+"ttHH_fullhad.deriv.DAOD_PHYSLITE.e8531_s3797_",
+"tttautau.deriv.DAOD_PHYSLITE.e8255_a907",
+"tttautau.deriv.DAOD_PHYSLITE.e8255_e7400_a907_r14861_p6266",
+"tttautau.deriv.DAOD_PHYSLITE.e8255_s3797_",
+"SM4topsNLO.deriv.DAOD_PHYS.e7101_s3681_",
+"mc20_13TeV.410646.PowhegPythia8EvtGen_A14_Wt_DR_inclusive_top.deriv.DAOD_PHYS.e6552_a907_r14861_p6266",
+"mc20_13TeV.410647.PowhegPythia8EvtGen_A14_Wt_DR_inclusive_antitop.deriv.DAOD_PHYS.e6552_a907_r14861_p6266",
+"mc20_13TeV.410658.PhPy8EG_A14_tchan_BW50_lept_top.deriv.DAOD_PHYSLITE.e6671_a907_r14861_p6266",
+"mc20_13TeV.410659.PhPy8EG_A14_tchan_BW50_lept_antitop.deriv.DAOD_PHYSLITE.e6671_a907_r14861_p6266",
+"singletop_schan_lept_top.deriv.DAOD_PHYSLITE.e6527_a907_",
+"singletop_schan_lept_antitop.deriv.DAOD_PHYSLITE.e6527_a907_",
+]
+
+exclude_run3 = [
+"tW_dyn_DR_incl_antitop.deriv.DAOD_PHYSLITE.e8514_",
+"tW_dyn_DR_incl_top.deriv.DAOD_PHYSLITE.e8514_",
+]
+
+exclude_variations = [
+"mc20_13TeV.411233.PowhegHerwig7EvtGen_tt_hdamp258p75_713_SingleLep.deriv.DAOD_PHYSLITE.e7580_s3681_r13167_p6266",
+"mc20_13TeV.411234.PowhegHerwig7EvtGen_tt_hdamp258p75_713_dil.deriv.DAOD_PHYSLITE.e7580_s3681_r13167_p6266",
+]
+
 def parse_file(input_file):
     data_list = []
 
@@ -88,7 +115,7 @@ def classifyNames(dsid):
             return key
     return None
 
-def extract_filenames(input_file, output_csv, parsed_20, parsed_23, parsed_pmg_20, parsed_pmg_23):
+def extract_filenames(input_file, output_csv, parsed_20, parsed_23, parsed_pmg_20, parsed_pmg_23, exclude):
     filenames = []
     split_parts = []  # List to store split parts for CSV
     download_string = []
@@ -101,8 +128,15 @@ def extract_filenames(input_file, output_csv, parsed_20, parsed_23, parsed_pmg_2
             if match:
                 filename = match.group(0)
                 if filename.split('.')[-1].count('r') == 1:
-                    if "r15530" in filename or "r14799" in filename:
+                    if "r14799" in filename:
                         continue
+                    excludeTag = False
+                    for excludeFile in exclude:
+                        if excludeFile in filename:
+                            excludeTag = True
+                    if excludeTag: 
+                        continue
+
                     filenames.append(filename)
                     file_info = filename.split('.')
                     download_string.append("rucio download --dir \"$base_dir/"+classifyNames(file_info[1])+"\" \"user.$user.$campaignBroken2."+file_info[1]+"."+file_info[-1]+"_TREE/\"")
@@ -165,9 +199,10 @@ def extract_filenames(input_file, output_csv, parsed_20, parsed_23, parsed_pmg_2
 
     return filenames, download_string
 
-if __name__ == "__main__":
-    input_file = "rucioLS.log"  # Replace with your input file
-    output_csv = "sample_list.csv"  # Output CSV file
+
+def runCode(postfix, exclude):
+    input_file = "rucioLS_"+postfix+".log"  # Replace with your input file
+    output_csv = "out/sample_list_"+postfix+".csv"  # Output CSV file
 
     parsed_20 = parse_file("/afs/cern.ch/user/l/lfaldaul/work/ttHH_analysis/fastframes/fastframes/data/XSection-MC16-13TeV.data")
     parsed_23 = parse_file("/afs/cern.ch/user/l/lfaldaul/work/ttHH_analysis/fastframes/fastframes/data/XSection-MC21-13p6TeV.data")
@@ -175,14 +210,21 @@ if __name__ == "__main__":
     parsed_pmg_20 = parse_pmg_xsec_db("/cvmfs/atlas.cern.ch/repo/sw/database/GroupData/dev/PMGTools/2024-06-27/PMGxsecDB_mc16.txt")
     parsed_pmg_23 = parse_pmg_xsec_db("/cvmfs/atlas.cern.ch/repo/sw/database/GroupData/dev/PMGTools/2024-06-27/PMGxsecDB_mc23.txt")
 
-    filenames, download_string = extract_filenames(input_file, output_csv, parsed_20, parsed_23, parsed_pmg_20, parsed_pmg_23)
+    filenames, download_string = extract_filenames(input_file, output_csv, parsed_20, parsed_23, parsed_pmg_20, parsed_pmg_23, exclude)
 
-    with open('sample_list.txt', 'w') as file:
+    with open('out/sample_list_'+postfix+'.txt', 'w') as file:
         for filename in filenames:
             modified_filename = filename.replace("mc23_13p6TeV:", "").replace("mc20_13TeV:", "")
             file.write(modified_filename + '\n')
 
-    with open('sample_list_download_strings.txt', 'w') as file:
+    with open('out/sample_list_download_strings_'+postfix+'.txt', 'w') as file:
         for s in download_string:
             print(s)
             file.write(s + '\n')
+
+
+if __name__ == "__main__":
+    
+    #runCode("nominal_run2", exclude_run2)
+    #runCode("nominal_run3", exclude_run3)
+    runCode("variations", exclude_variations)
